@@ -29,7 +29,7 @@ nav_order: 1
   - [yt-dlp](https://github.com/yt-dlp/yt-dlp), 혹은 유튜브 음원 추출 사이트 등을 통해 직접 추출하는 방법입니다. 음질 이슈가 있을 수 있어 추출 후 음질 확인이 필요합니다. 
 
 {: .warning }
-**[Content Usage Permission](https://osu.ppy.sh/wiki/en/Rules/Content_usage_permissions)**에 등재된 아티스트 중, **Allowed, with exceptions와 Disallowed** 섹션에 있는 아티스트는 음원 사용이 불가능합니다. 업로드 자체는 가능하지만 랭크는 불가하며, 아티스트가 사용하지 말 것을 권고한 것이기에 매핑하기 이전에 반드시 확인해야 합니다.
+**[Content Usage Permission](https://osu.ppy.sh/wiki/en/Rules/Content_usage_permissions)**에 등재된 아티스트 중, **Allowed, with exceptions**, **Disallowed** 섹션에 있는 아티스트는 음원 사용이 (일부)불가능합니다. 업로드 자체는 가능하지만 랭크는 불가하며, 아티스트가 사용하지 말 것을 권고한 것이기에 매핑하기 이전에 반드시 확인해야 합니다.
 
 
 # **비트맵 생성**
