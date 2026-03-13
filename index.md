@@ -35,5 +35,6 @@ nav_order: 1
 
 ### **Contributors**
 - **[Sutherland](https://osu.ppy.sh/users/2032353)**: 총괄 및 집필
-- **[Beomsan](https://osu.ppy.sh/users/3626063)**: 검토 및 피드백
-- **[Enon](https://osu.ppy.sh/users/2043401)**: 검토 및 피드백
+- **[Beomsan](https://osu.ppy.sh/users/3626063)**: 검수 및 피드백
+- **[Enon](https://osu.ppy.sh/users/2043401)**: 검수 및 피드백
+- **[Allegrissimo](https://osu.ppy.sh/users/9052194)**: 검수 및 퇴고
