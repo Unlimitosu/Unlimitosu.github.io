@@ -9,7 +9,8 @@ baseurl: "" # 메인 페이지로 사용 시 비워둡니다.
 
 permalink: pretty
 
-last_edit_timestamp: true # true에서 false로 변경
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y"
 
 # [중요] 레이아웃 기본값 설정 (들여쓰기 수정됨)
 defaults:
@@ -71,7 +72,7 @@ callouts:
     color: blue
   new:
     title: New
-    color: purple
+    color: green
   note:
     title: Note
     color: green
