@@ -1,5 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: osu!std Korean Mapping Guide
+description: zz
 
 # GitHub Pages용 테마 설정
 remote_theme: just-the-docs/just-the-docs
@@ -8,6 +8,8 @@ url: "https://unlimitosu.github.io"
 baseurl: "" # 메인 페이지로 사용 시 비워둡니다.
 
 permalink: pretty
+
+last_edit_timestamp: true # true에서 false로 변경
 
 # [중요] 레이아웃 기본값 설정 (들여쓰기 수정됨)
 defaults:
@@ -60,3 +62,28 @@ plugins:
 sass:
   quiet_deps: true
   silence_deprecations: ['import']
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: purple
+  note:
+    title: Note
+    color: green
+  warning:
+    title: Warning
+    color: red
+
+
+callouts_level: quiet
+
+kramdown:
+  input: GFM        # GitHub Flavored Markdown 사용
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
