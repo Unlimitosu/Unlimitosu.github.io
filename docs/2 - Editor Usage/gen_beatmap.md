@@ -128,7 +128,9 @@ nav_order: 1
 
 `Combo n` 버튼을 누르면 아래와 같이 색 선택 창이 나타나며, 여기서 색을 선택할 수 있습니다. 일반적으로는 곡의 배경과 연관된 색을 사용합니다.
 
-![]({{ "/assets/images/chapter2/colorsetting.png" | relative_url }})
+<p align="center">
+  <img src="{{ '/assets/images/chapter2/colorsetting.png' | relative_url }}">
+</p>
 
 하단의 `Backgound Colour`버튼은 현재 사용하는 경우가 극히 드뭅니다.
 
