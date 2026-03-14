@@ -55,7 +55,7 @@ nav_order: 1
 이제 다음과 같이 비트맵이 생성되었습니다. 
 
 <p align="center">
-  <img src="{{ '/assets/images/chapter2/empty_map.png' | relative_url }}">
+  <img src="{{ '/assets/images/chapter2/empty_map.jpg' | relative_url }}">
 </p>
 
 ## **Song Setup**
@@ -136,5 +136,5 @@ nav_order: 1
 
 `Stack Leneiency`를 설정할 수 있습니다. 값이 높을수록 더 오랜 시간이 지나야 노트가 완벽히 겹쳐집니다.
 
-(사진 추가)
+(사진 추가 예정 - 퍼펙트 스택)
 
