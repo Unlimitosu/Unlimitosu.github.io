@@ -148,6 +148,7 @@ osu!standard에서 '처리'해야 하는 것을 _오브젝트_ 라고 하며,
 |ctrl+Shift+P|Inherited Timing Point 생성 (Timing Setup Panel 열림)|
 
 ## 기타 단축키
+
 |단축키|기능|
 |:--|:--|
 |ctrl+Z|실행 취소|
