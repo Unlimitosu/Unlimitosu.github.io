@@ -2,6 +2,7 @@
 layout: default
 title: 비트맵 생성하기
 parent: 에디터 사용법      
+last_modified_date: 2026-03-15
 nav_order: 1
 ---
 
@@ -147,9 +148,11 @@ nav_order: 1
   <img src="{{ '/assets/images/chapter2/advanced.png' | relative_url }}">
 </p>
 
-`Stack Leneiency`를 설정할 수 있습니다. 값이 높을수록 더 오랜 시간이 지나야 노트가 완벽히 겹쳐집니다.
+`Stack Leneiency`를 설정할 수 있습니다. 값이 높을수록 더 오랜 시간이 지나야 노트가 완벽히 겹쳐집니다. 아래 그림은 각각 `Stack Leneiency`가 7일 때(좌)와 2일 때(우)의 차이입니다. 오른쪽과 같이 _완벽하게_ 겹쳐있는 노트는 **퍼펙트 스택** (또는 fully-overlapped) 되었다고 합니다. 퍼펙트 스택과 관련된 내용은 나중 챕터에서 다룰 예정이며, 현재는 인세인 이상의 난이도에서는 취향에 따라 선택하면 된다고 알고 있으면 됩니다.
 
-(사진 추가 예정 - 퍼펙트 스택)
+<p align="center">
+  <img src="{{ '/assets/images/chapter2/perfectstack.png' | relative_url }}">
+</p>
 
 여기까지 하셨으면 `OK` 버튼을 눌러 다음으로 진행합니다.
 
