@@ -183,7 +183,7 @@ nav_order: 3
 <figure style="text-align: center;">
   <img src="{{ '/assets/images/chapter2/inherited_timingpoints_descript.png' | relative_url }}" alt="" width="80%">
   <figcaption style="font-size: 0.85em; color: grey; margin-top: 5px;">
-    Inherited Timing Point의 구성 요소
+    <span style="color: green;">초록선</span>의 구성 요소
   </figcaption>
 </figure>
 
@@ -201,5 +201,5 @@ nav_order: 3
 <span style="color: green;">초록선</span>은 슬라이더 속도, 히트사운드 설정, 키아이 타임 설정을 위해 사용합니다. 한 번에 여러 설정을 동시에 적용할 수 있습니다.
 
 {: .warning}
-**같은 타이밍에 두 개의 <span style="color: green;">초록선</span>을 두는 것은 언랭커블 요소**입니다. 반드시 한 번에 하나의 Inherited Timing Point만 사용하세요.
+**같은 타이밍에 두 개의 <span style="color: green;">초록선</span>을 두는 것은 언랭커블 요소**입니다. 반드시 한 번에 하나의 <span style="color: green;">초록선</span>만 사용하세요.
 
