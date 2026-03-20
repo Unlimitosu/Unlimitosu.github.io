@@ -67,7 +67,7 @@ nav_order: 3
 
 보컬을 액티브로 두고 보니, 리듬이 눈에 띄게 비어있는 곳이 보입니다. 바로 `10번 서클`과 그 다음 `1번 서클` 사이입니다. 인세인 이상에서, 그것도 곡의 하이라이트 부분에서 이 정도로 두 박자 이상의 큰 갭(gap)은 크게 어울리지 않을 수 있습니다. 
 
-바로 이런 경우에 하위 레이어를 표현하는 것을 생각할 수 있습니다. 이 곡은 배경음이 다른 요소에 비해 약하기 때문에, 드럼을 표현하는 것을 생각해봅시다. 아래 그림은 첫 소절에서의 보컬의 위치를 <span style="color: skyblue;">파란색</span>으로, 드럼의 위치를 <span style="color: red;">빨간색</span>으로 타임라인에 나타냈습니다.
+바로 이런 경우에 하위 레이어를 표현하는 것을 생각할 수 있습니다. 이 곡은 배경음이 다른 요소에 비해 약하기 때문에, 드럼을 표현하는 것을 생각해봅시다. 아래 그림은 첫 소절에서의 드림의 위치를 <span style="color: skyblue;">파란색</span>으로, 보컬의 위치를 <span style="color: red;">빨간색</span>으로 타임라인에 나타냈습니다.
 
 <figure style="text-align: center;">
   <img src="{{ '/assets/images/chapter3/3_1.png' | relative_url }}" alt="" width="80%">
@@ -174,7 +174,7 @@ nav_order: 3
   </figcaption>
 </figure>
 
-두 번째 소절도 보컬만으로는 갭이 많이 있고, 배경음은 계속해서 진행하기 때문에 필러 사용을 고려해봅니다. 첫 번째 소절과 같이, 보컬의 위치를 <span style="color: skyblue;">파란색</span>으로, 드럼의 위치를 <span style="color: red;">빨간색</span>으로 타임라인에 나타내면 다음과 같습니다.
+두 번째 소절도 보컬만으로는 갭이 많이 있고, 배경음은 계속해서 진행하기 때문에 필러 사용을 고려해봅니다. 첫 번째 소절과 같이, 드럼의 위치를 <span style="color: skyblue;">파란색</span>으로, 보컬의 위치를 <span style="color: red;">빨간색</span>으로 타임라인에 나타내면 다음과 같습니다.
 
 <figure style="text-align: center;">
   <img src="{{ '/assets/images/chapter3/3_4.png' | relative_url }}" alt="" width="80%">
